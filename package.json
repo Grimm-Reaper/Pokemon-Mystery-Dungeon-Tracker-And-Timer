@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Grimm-Reaper/Pokemon-Mystery-Dungeon-Tracker-And-Timer/issues"
   },
-  "homepage": "https://github.com/Grimm-Reaper/Pokemon-Mystery-Dungeon-Tracker-And-Timer#readme"
+  "homepage": "https://github.com/Grimm-Reaper/Pokemon-Mystery-Dungeon-Tracker-And-Timer#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
 }
