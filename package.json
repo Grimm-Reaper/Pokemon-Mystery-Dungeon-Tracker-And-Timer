@@ -1,0 +1,20 @@
+{
+  "name": "pokemon-mystery-dungeon-tracker-and-timer",
+  "version": "1.0.0",
+  "description": "A tracker and timer for Pokemon mystery dungeon speedruns",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grimm-Reaper/Pokemon-Mystery-Dungeon-Tracker-And-Timer.git"
+  },
+  "author": "jack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grimm-Reaper/Pokemon-Mystery-Dungeon-Tracker-And-Timer/issues"
+  },
+  "homepage": "https://github.com/Grimm-Reaper/Pokemon-Mystery-Dungeon-Tracker-And-Timer#readme"
+}
